@@ -1,0 +1,1 @@
+please save test.csv train.csv and stopwords.txt in a subfolder called a1_data 
